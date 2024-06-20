@@ -1,0 +1,10 @@
+/**
+ * Add any custom CSS here.
+ *
+ * This file will be loaded after all other theme stylesheets.
+ */
+
+
+h1.entry-title:{
+	text-align: left;
+}

@@ -1,0 +1,51 @@
+/*
+Theme Name:   Storefront Child
+Theme URI:        https://example.com/twenty-seventeen-child/
+Description:  StoreFront Child Theme
+Author:           Pavel Izmailov
+Author URI:   https://example.com
+Template:         Storefront
+Version:          1.0.0
+License:          GNU General Public License v2 or later
+License URI:  https://www.gnu.org/licenses/gpl-2.0.html
+Tags: light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+Text Domain:  Storefront
+ 
+*/
+
+
+@import url("../storefront/style.css");
+
+.entry-title {
+text-align: left;
+}
+
+.storefront-breadcrumb {
+margin: 0;
+}
+
+.site-header{
+background-color: white;}
+
+.main-navigation ul li a {
+color: black;
+}
+.main-navigation ul li a:hover {
+color: rgba(184, 5, 5, 0.828);
+}
+
+.wp-block-heading has-text-align-center with-empty-cart-icon wc-block-cart__empty-cart__title {
+display: none;
+
+
+}
+
+
+.site-info a{
+display: none;
+}
+
+#colophon .site-footer{
+margin: 0;
+padding: 0;
+}
