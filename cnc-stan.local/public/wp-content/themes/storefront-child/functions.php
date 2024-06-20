@@ -23,3 +23,5 @@ function Storefront_child_parent_theme_enqueue_styles() {
 }
 
 тут какой то код я поменял
+
+в ветке dev я обновляю коммит
