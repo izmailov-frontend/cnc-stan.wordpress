@@ -21,5 +21,3 @@ function Storefront_child_parent_theme_enqueue_styles() {
 	
 	
 }
-
-тут какой то код я поменял
